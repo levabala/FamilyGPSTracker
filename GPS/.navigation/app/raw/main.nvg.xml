@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.gps.lev.gps.MainActivity"/>
+      <point      
+        x = "616"      
+        y = "624"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.gps.lev.gps.MapsActivity"/>
+      <point      
+        x = "3436"      
+        y = "864"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.gps.lev.gps.MainActivity22Activity"/>
+      <point      
+        x = "1836"      
+        y = "836"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "com.gps.lev.gps.MainActivity22Activity"/>
+      <point      
+        x = "3104"      
+        y = "836"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>
